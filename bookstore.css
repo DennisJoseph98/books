@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.con{
+    height: 472px;
+    width: 18%;
+    border: rgb(88, 14, 173) 2px solid;
+    float: left;
+    padding: 10px;
+
+
+}
+img{
+    width:100%;
+    height: 250px;
+}
+h4{
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 15px;
+    width: 50%;
+    margin-left: 61px;
+
+}
